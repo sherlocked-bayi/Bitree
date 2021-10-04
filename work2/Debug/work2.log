@@ -1,0 +1,6 @@
+﻿  work2Dlg.cpp
+f:\vc\sdk\work2\work2\work2dlg.cpp(527): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\vc\sdk\work2\work2\work2dlg.cpp(532): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\vc\sdk\work2\work2\work2dlg.cpp(776): warning C4715: “Draw”: 不是所有的控件路径都返回值
+f:\vc\sdk\work2\work2\work2dlg.cpp(500): warning C4715: “Check2”: 不是所有的控件路径都返回值
+  work2.vcxproj -> F:\VC\sdk\work2\Debug\work2.exe
